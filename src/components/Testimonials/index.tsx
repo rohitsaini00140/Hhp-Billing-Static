@@ -49,7 +49,7 @@ const Testimonials = () => {
   };
 
   return (
-    <section className="dark:bg-bg-color-dark bg-white relative z-10 py-16 md:py-20 lg:py-28">
+    <section className="dark:bg-bg-color-dark bg-white relative z-10 py-10 md:py-10 lg:py-14">
       <div className="container">
         <SectionTitle
           title="What Our Clients Says"

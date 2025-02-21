@@ -37,7 +37,7 @@ const Footer = () => {
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="mr-6 text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                    className="mr-6 text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                   >
                     <svg
                       width="18"
@@ -57,7 +57,7 @@ const Footer = () => {
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="mr-6 text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                    className="mr-6 text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                   >
                     <svg
                       width="18"
@@ -79,7 +79,7 @@ const Footer = () => {
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="mr-6 text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                    className="mr-6 text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                   >
                     <svg
                       width="17"
@@ -96,7 +96,7 @@ const Footer = () => {
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                    className="text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                   >
                     <svg
                       width="17"
@@ -113,14 +113,14 @@ const Footer = () => {
 
             <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
               <div className="mb-12 lg:mb-16">
-                <h2 className="mb-10 text-xl font-bold text-[#00a0e3]">
+                <h2 className="mb-10 text-xl font-bold text-[#ff6600]">
                   Useful Links
                 </h2>
                 <ul>
                   <li>
                     <Link
                       href="/"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       Home
                     </Link>
@@ -128,7 +128,7 @@ const Footer = () => {
                   <li>
                     <Link
                       href="/about"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       About
                     </Link>
@@ -136,7 +136,7 @@ const Footer = () => {
                   <li>
                     <Link
                       href="/billingSoftwareDemo"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       Billing Software Demo
                     </Link>
@@ -144,7 +144,7 @@ const Footer = () => {
                   <li>
                     <Link
                       href="/contact"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009"
                     >
                       Contact Us
                     </Link>
@@ -155,14 +155,14 @@ const Footer = () => {
 
             <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
               <div className="mb-12 lg:mb-16">
-                <h2 className="mb-10 text-xl font-bold text-[#00a0e3]">
+                <h2 className="mb-10 text-xl font-bold text-[#ff6600]">
                   Services
                 </h2>
                 <ul>
                   <li>
                     <Link
                       href="/services/webDevelopment"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       Web Development
                     </Link>
@@ -170,7 +170,7 @@ const Footer = () => {
                   <li>
                     <Link
                       href="/services/mobileAppDevelopment"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       Mobile App Development
                     </Link>
@@ -178,7 +178,7 @@ const Footer = () => {
                   <li>
                     <Link
                       href="/services/softwareDevelopment"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       Software Development
                     </Link>
@@ -186,7 +186,7 @@ const Footer = () => {
                   <li>
                     <Link
                       href="/services/blockchainDevelopment"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       Blockchain Development
                     </Link>
@@ -194,7 +194,7 @@ const Footer = () => {
                   <li>
                     <Link
                       href="/services/digitalMarketingServices"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       Digital Marketing Services
                     </Link>
@@ -202,7 +202,7 @@ const Footer = () => {
                   <li>
                     <Link
                       href="/additionalServices/ITHardware"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       IT Hardware
                     </Link>
@@ -210,7 +210,7 @@ const Footer = () => {
                   <li>
                     <Link
                       href="/additionalServices/ITManpower"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       IT Manpower
                     </Link>
@@ -221,14 +221,14 @@ const Footer = () => {
 
             <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-3/12">
               <div className="mb-12 lg:mb-16">
-                <h2 className="mb-10 text-xl font-bold text-[#00a0e3]">
+                <h2 className="mb-10 text-xl font-bold text-[#ff6600]">
                   Support & Help
                 </h2>
                 <ul>
                   <li>
                     <Link
                       href="/contact"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       Address: J4, Noida Sec-58, OPPOSITE UFLEX, UP (201301)
                     </Link>
@@ -236,7 +236,7 @@ const Footer = () => {
                   <li>
                     <Link
                       href="mailto:support@hhpsoftware.in?subject=Support%20Request&body=Hello,%20I%20need%20assistance%20with..."
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       Email: support@hhpsoftware.in
                     </Link>
@@ -244,7 +244,7 @@ const Footer = () => {
                   <li>
                     <Link
                       href="tel:01204511388"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       Phone: 0120-4511388
                     </Link>
@@ -254,7 +254,7 @@ const Footer = () => {
                       href="https://wa.me/919599959908?text=Hello!%20I'm%20interested%20in%20your%20services."
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#00a1e3] dark:text-body-color-dark dark:hover:text-[#00a1e3]"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-[#2DB009] dark:text-body-color-dark dark:hover:text-[#2DB009]"
                     >
                       Whatsapp: +91 9599 9599 08
                     </Link>

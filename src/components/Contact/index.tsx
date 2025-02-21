@@ -114,12 +114,12 @@ const Contact = () => {
                         placeholder="Enter your Message"
                         value={val.message}
                         onChange={(e) => setVal({ ...val, message: e.target.value })}
-                        className="border-stroke w-full resize-none rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none focus:border-primary dark:border-transparent dark:bg-[#2C303B] dark:text-body-color-dark dark:shadow-two dark:focus:border-primary dark:focus:shadow-none"
+                        className="border-stroke w-full resize-none rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none focus:border-[#37C2C2] dark:border-transparent dark:bg-[#2C303B] dark:text-body-color-dark dark:shadow-two dark:focus:border-primary dark:focus:shadow-none"
                       ></textarea>
                     </div>
                   </div>
                   <div className="w-full px-4">
-                    <button type="submit" className="rounded-sm bg-[#00a0e3] px-9 py-4 text-base font-medium text-white shadow-submit duration-300 hover:bg-primary/90 dark:shadow-submit-dark">
+                    <button type="submit" className="rounded-sm bg-[#37C2C2] px-6 py-3 text-base font-medium text-white shadow-submit duration-300 hover:bg-[#9af50a] dark:shadow-submit-dark">
                       Submit Ticket
                     </button>
                   </div>

@@ -11,7 +11,7 @@ const checkIcon = (
 const TechnologyIntro = () => {
   const List = ({ text }) => (
     <p className="mb-5 flex items-center text-lg font-medium text-body-color">
-      <span className="mr-4 flex h-[30px] w-[30px] items-center justify-center rounded-md bg-[#00a1e3] bg-opacity-50 dark:bg-opacity-10 text-[#00a1e3]">
+      <span className="mr-4 flex h-[30px] w-[30px] items-center justify-center rounded-md bg-[#37C2C2] bg-opacity-50 dark:bg-opacity-10 text-[#1E7D04]">
         {checkIcon}
       </span>
       {text}
@@ -19,7 +19,7 @@ const TechnologyIntro = () => {
   );
 
   return (
-    <section id="about" className="pt-16 md:pt-20 lg:pt-28">
+    <section id="about" className="pt-10 md:pt-10 lg:pt-10">
       <div className="container">
         <div className="border-b border-body-color/[.15] pb-16 dark:border-white/[.15] md:pb-20 lg:pb-28">
           <div className="-mx-4 flex flex-wrap items-center">

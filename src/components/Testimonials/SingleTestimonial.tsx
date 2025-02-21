@@ -28,7 +28,7 @@ const SingleTestimonial = ({ testimonial }: { testimonial: Testimonial }) => {
         <div className="mb-5 flex items-center space-x-1">{ratingIcons}</div>
         <p className={`mb-8 border-b border-body-color border-opacity-10 pb-8 text-base leading-relaxed text-body-color dark:border-white dark:border-opacity-10 dark:text-white h-[10rem] ${showMore && "overflow-auto "}`}>
           {showMore ? content : `${content.substring(0, 150)}`}
-          <span className="text-[#00a0e3] cursor-pointer" onClick={() => setShowMore(!showMore)}>{content.length > 150 && (showMore ? "...Less" : "...More")}</span>
+          <span className="text-[#37C2C2] cursor-pointer" onClick={() => setShowMore(!showMore)}>{content.length > 150 && (showMore ? "...Less" : "...More")}</span>
         </p>
         <div className="flex items-center">
           <div className="relative mr-4 h-[50px] w-full max-w-[50px] overflow-hidden">

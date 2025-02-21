@@ -4,7 +4,7 @@ const processData: Process[] = [
   {
     id: 1,
     icon: (
-      <svg fill="#00a0e3" version="1.1" id="Layer_1"
+      <svg fill="#37C2C2" version="1.1" id="Layer_1"
         width="800px" height="800px" viewBox="0 0 256 190" enable-background="new 0 0 256 190" >
         <path d="M48.12,27.903C48.12,13.564,59.592,2,74.023,2c14.339,0,25.903,11.564,25.903,25.903
 	C99.834,42.335,88.27,53.806,74.023,53.806C59.684,53.806,48.12,42.242,48.12,27.903z M191,139h-47V97c0-20.461-17.881-37-38-37H43
@@ -36,7 +36,7 @@ const processData: Process[] = [
   {
     id: 2,
     icon: (
-      <svg fill="#00a0e3" width="800px" height="800px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" id="Layer_3" version="1.1" xmlns="http://www.w3.org/2000/svg">
+      <svg fill="#37C2C2" width="800px" height="800px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" id="Layer_3" version="1.1" xmlns="http://www.w3.org/2000/svg">
         <g>
           <path d="M20,5h-1c0-1.654-1.346-3-3-3s-3,1.346-3,3h-1c-0.552,0-1,0.447-1,1v1H8.821C7.266,7,6,8.266,6,9.821v17.357   C6,28.734,7.266,30,8.821,30h14.357C24.734,30,26,28.734,26,27.179V9.821C26,8.266,24.734,7,23.179,7H21V6C21,5.447,20.552,5,20,5z    M16,4c0.551,0,1,0.448,1,1h-2C15,4.448,15.449,4,16,4z M13,7h6v2h-6V7z M23.179,9C23.631,9,24,9.368,24,9.821v17.357   C24,27.632,23.631,28,23.179,28H8.821C8.369,28,8,27.632,8,27.179V9.821C8,9.368,8.369,9,8.821,9H11v1c0,0.553,0.448,1,1,1h8   c0.552,0,1-0.447,1-1V9H23.179z" />
           <path d="M13,13h-3c-0.552,0-1,0.447-1,1v3c0,0.553,0.448,1,1,1h3c0.552,0,1-0.447,1-1v-3C14,13.447,13.552,13,13,13z M12,16h-1v-1   h1V16z" />
@@ -53,7 +53,7 @@ const processData: Process[] = [
   {
     id: 3,
     icon: (
-      <svg fill="#00a0e3" width="800px" height="800px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+      <svg fill="#37C2C2" width="800px" height="800px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
         <path d="M7.3,2.68 L7.3,7 L8.7,7 L8.7,2.68 L9.63,3.61 L10.63,2.61 L8,0 L5.38,2.62 L6.38,3.62 L7.3,2.68 Z M8.7,13.31 L8.7,9 L7.3,9 L7.3,13.3 L6.37,12.38 L5.37,13.38 L8,16 L10.62,13.39 L9.62,12.39 L8.7,13.31 Z M13.38,5.38 L12.38,6.38 L13.31,7.31 L9,7.31 L9,8.7 L13.3,8.7 L12.38,9.62 L13.38,10.62 L16,8 L13.38,5.38 Z M7,8.7 L7,7.3 L2.68,7.3 L3.61,6.37 L2.61,5.37 L0,8 L2.61,10.61 L3.61,9.61 L2.69,8.7 L7,8.7 Z" />
       </svg>
     ),
@@ -64,7 +64,7 @@ const processData: Process[] = [
   {
     id: 4,
     icon: (
-      <svg fill="#00a0e3" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+      <svg fill="#37C2C2" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
         <g>
           <g>
             <g>
@@ -109,7 +109,7 @@ const processData: Process[] = [
   {
     id: 5,
     icon: (
-      <svg width="800px" fill="#00a0e3" height="800px" viewBox="0 0 1920 1920" xmlns="http://www.w3.org/2000/svg">
+      <svg width="800px" fill="#37C2C2" height="800px" viewBox="0 0 1920 1920" xmlns="http://www.w3.org/2000/svg">
         <g fill-rule="evenodd" clip-rule="evenodd" stroke="none" stroke-width="1">
           <path fill-rule="evenodd" clip-rule="evenodd" d="M746.667 106.667V1493.33H1173.33V106.667H746.667ZM1056 224H864V1376H1056V224ZM106.667 533.333H533.333V1493.33H106.667V533.333ZM224 650.667H416V1376H224V650.667Z" />
           <path d="M1920 1706.67H0V1824H1920V1706.67Z" />
@@ -125,18 +125,18 @@ const processData: Process[] = [
     id: 6,
     icon: (
       <svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path opacity="0.1" d="M17 14C15.8954 14 15 13.1046 15 12C15 10.8954 15.8954 10 17 10C18.1046 10 19 10.8954 19 12C19 13.1046 18.1046 14 17 14Z" fill="#00a0e3" />
-        <path opacity="0.1" d="M7 21C5.89543 21 5 20.1046 5 19C5 17.8954 5.89543 17 7 17C8.10457 17 9 17.8954 9 19C9 20.1046 8.10457 21 7 21Z" fill="#00a0e3" />
-        <path opacity="0.1" d="M7 7C5.89543 7 5 6.10457 5 5C5 3.89543 5.89543 3 7 3C8.10457 3 9 3.89543 9 5C9 6.10457 8.10457 7 7 7Z" fill="#00a0e3" />
-        <path d="M21 5L9 5" stroke="#00a0e3" stroke-width="2" stroke-linecap="round" />
-        <path d="M5 5L3 5" stroke="#00a0e3" stroke-width="2" stroke-linecap="round" />
-        <path d="M21 12L19 12" stroke="#00a0e3" stroke-width="2" stroke-linecap="round" />
-        <path d="M5 19L3 19" stroke="#00a0e3" stroke-width="2" stroke-linecap="round" />
-        <path d="M15 12L3 12" stroke="#00a0e3" stroke-width="2" stroke-linecap="round" />
-        <path d="M21 19L9 19" stroke="#00a0e3" stroke-width="2" stroke-linecap="round" />
-        <path d="M17 14C15.8954 14 15 13.1046 15 12C15 10.8954 15.8954 10 17 10C18.1046 10 19 10.8954 19 12C19 13.1046 18.1046 14 17 14Z" stroke="#00a0e3" stroke-width="2" />
-        <path d="M7 21C5.89543 21 5 20.1046 5 19C5 17.8954 5.89543 17 7 17C8.10457 17 9 17.8954 9 19C9 20.1046 8.10457 21 7 21Z" stroke="#00a0e3" stroke-width="2" />
-        <path d="M7 7C5.89543 7 5 6.10457 5 5C5 3.89543 5.89543 3 7 3C8.10457 3 9 3.89543 9 5C9 6.10457 8.10457 7 7 7Z" stroke="#00a0e3" stroke-width="2" />
+        <path opacity="0.1" d="M17 14C15.8954 14 15 13.1046 15 12C15 10.8954 15.8954 10 17 10C18.1046 10 19 10.8954 19 12C19 13.1046 18.1046 14 17 14Z" fill="#37C2C2" />
+        <path opacity="0.1" d="M7 21C5.89543 21 5 20.1046 5 19C5 17.8954 5.89543 17 7 17C8.10457 17 9 17.8954 9 19C9 20.1046 8.10457 21 7 21Z" fill="#37C2C2" />
+        <path opacity="0.1" d="M7 7C5.89543 7 5 6.10457 5 5C5 3.89543 5.89543 3 7 3C8.10457 3 9 3.89543 9 5C9 6.10457 8.10457 7 7 7Z" fill="#37C2C2" />
+        <path d="M21 5L9 5" stroke="#37C2C2" stroke-width="2" stroke-linecap="round" />
+        <path d="M5 5L3 5" stroke="#37C2C2" stroke-width="2" stroke-linecap="round" />
+        <path d="M21 12L19 12" stroke="#37C2C2" stroke-width="2" stroke-linecap="round" />
+        <path d="M5 19L3 19" stroke="#37C2C2" stroke-width="2" stroke-linecap="round" />
+        <path d="M15 12L3 12" stroke="#37C2C2" stroke-width="2" stroke-linecap="round" />
+        <path d="M21 19L9 19" stroke="#37C2C2" stroke-width="2" stroke-linecap="round" />
+        <path d="M17 14C15.8954 14 15 13.1046 15 12C15 10.8954 15.8954 10 17 10C18.1046 10 19 10.8954 19 12C19 13.1046 18.1046 14 17 14Z" stroke="#37C2C2" stroke-width="2" />
+        <path d="M7 21C5.89543 21 5 20.1046 5 19C5 17.8954 5.89543 17 7 17C8.10457 17 9 17.8954 9 19C9 20.1046 8.10457 21 7 21Z" stroke="#37C2C2" stroke-width="2" />
+        <path d="M7 7C5.89543 7 5 6.10457 5 5C5 3.89543 5.89543 3 7 3C8.10457 3 9 3.89543 9 5C9 6.10457 8.10457 7 7 7Z" stroke="#37C2C2" stroke-width="2" />
       </svg>
     ),
     title: "Continuous Optimization and Improvement",

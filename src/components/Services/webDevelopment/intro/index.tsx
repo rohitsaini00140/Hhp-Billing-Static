@@ -5,7 +5,7 @@ function Intro() {
     <>
       <section
         id="home"
-        className="relative z-10 overflow-hidden bg-white-300 pb-16 pt-[120px] dark:bg-gray-dark md:pb-[120px] md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
+        className="bg-white-300 relative z-10 overflow-hidden pb-10 pt-[60px] dark:bg-gray-dark md:pb-[60px] md:pt-[60px] xl:pb-[30px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
       >
         <div className="container">
           <div className="-mx-4 flex flex-wrap">
@@ -15,7 +15,11 @@ function Intro() {
                   Dynamic Web Development Services
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  Transform your digital landscape with our dynamic web development services. We specialize in crafting personalized websites and robust e-commerce solutions that drive growth and engagement, ensuring your online presence stands out in a competitive market.
+                  Transform your digital landscape with our dynamic web
+                  development services. We specialize in crafting personalized
+                  websites and robust e-commerce solutions that drive growth and
+                  engagement, ensuring your online presence stands out in a
+                  competitive market.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
@@ -274,6 +278,6 @@ function Intro() {
       </section>
     </>
   );
-};
+}
 
 export default Intro;

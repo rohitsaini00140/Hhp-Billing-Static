@@ -51,7 +51,7 @@ const menuData: Menu[] = [
     ]
   },
   {
-    id: 3,
+    id: 4,
     title: "Additional Services",
     newTab: false,
     submenu: [
@@ -69,17 +69,27 @@ const menuData: Menu[] = [
       }
     ]
   },
+
+
   {
-    id: 4,
+    id: 6,
+    title: "Blogs",
+    path: "/#",
+    newTab: false,
+  },
+  {
+    id: 5,
     title: "Billing Software Demo",
     path: "/billingSoftwareDemo",
     newTab: false,
   },
   {
-    id: 5,
+    id: 6,
     title: "Contact Us",
     path: "/contact",
     newTab: false,
-  }
+  },
+
+
 ];
 export default menuData;

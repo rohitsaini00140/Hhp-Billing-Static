@@ -8,7 +8,7 @@ const Process = () => {
 
   return (
     <>
-      <section id="features" className="py-16 md:py-20 lg:py-28">
+      <section id="features" className="py-10 md:py-10 lg:py-15">
         <div className="container">
           <SectionTitle
             title="IT Manpower Process"

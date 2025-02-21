@@ -129,14 +129,14 @@ const ReachOutButton = () => {
             <input type="hidden" name="url" value={formData.url} />
             <button
               type="submit"
-              className="float-end flex cursor-pointer rounded-md border-none bg-blue-600 px-2 py-1.5 text-sm text-white sm:px-4 sm:py-2 sm:text-[14px] md:px-8 md:py-2.5 md:text-[16px]"
+              className="float-end flex cursor-pointer rounded-md border-none bg-[#37C2C2] px-2 py-1.5 text-sm text-white sm:px-4 sm:py-2 sm:text-[14px] md:px-8 md:py-2.5 md:text-[16px]"
             >
               Submit
             </button>
           </form>
           <button
             onClick={closePopup}
-            className="absolute right-2.5 top-2.5 cursor-pointer border-none bg-transparent text-2xl"
+            className="absolute right-2.5 top-2.5 cursor-pointer border-none bg-transparent text-2xl text-[#ff6600] font-bold"
           >
             ×
           </button>

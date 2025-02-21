@@ -11,7 +11,7 @@ const checkIcon = (
 const TechnologyIntro = () => {
   const List = ({ text }) => (
     <p className="mb-5 flex items-center text-lg font-medium text-body-color">
-      <span className="mr-4 flex h-[30px] w-[30px] items-center justify-center rounded-md bg-[#00a0e3] bg-opacity-50 dark:bg-opacity-10 text-[#00a0e3]">
+      <span className="mr-4 flex h-[30px] w-[30px] items-center justify-center rounded-md bg-[#37C2C2] bg-opacity-50 dark:bg-opacity-10 text-[#1E7D04]">
         {checkIcon}
       </span>
       {text}
